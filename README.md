@@ -17,3 +17,40 @@ The datasets were extracted from an Excel file, and the following transformation
 Three setup tables (Insomnia, Psychosis and Schizophrenia) were created from the main dataset with unique id representing the status of the mental health problem.
 ## Modelling
 A star schema was adopted in the modelling. The dimension tables are joined to the fact table on one-to-many relationship
+![](datamodel.png)
+
+## Skills/concepts demonstrated:
+The following Power Bi features were incorporated
+-  Bookmarking and Filtering
+-  DAX and Quick measures
+-  Page Navigation
+-  Modelling
+
+## Visualization
+The report comprises of four(4) pages:
+- Overview
+- Insomnia Analysis
+- Psychosis Analysis
+- Schizophrenia Analysis
+  
+You can interact with the report:  [here](https://app.powerbi.com/view?r=eyJrIjoiMmU1YTU1ODktOTFiNy00MGVkLTgwYjctNzcwNThkZDI5ZjUyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+
+### Overview 
+The page summarises the findings
+![overview](overview.png)
+
+### Insomnia report
+The page gives insight into Insomnia mental health
+![](Insomnia.png)
+
+### Psychosis report
+The page gives insight into the survey carried on Psychosis mental health
+![](psychosis.png)
+
+### Schizophrenia report
+The page gives insight into the survey carried on Schizophrenia mental health
+![](Schizophrenia.png)
+
+### Findings
+
+
