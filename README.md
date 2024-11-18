@@ -52,5 +52,30 @@ The page gives insight into the survey carried on Schizophrenia mental health
 ![](Schizophrenia.png)
 
 ### Findings
+1. Demographics
+
+- Gender and Marital Status: Among the 100 students surveyed, 75 are female, and 25 are male. The majority (84 students) are single, with 16 being married.
+- Age and Academic Level: The largest age group is 18 years old (32 students), highlighting a predominantly young population. Year 1 students comprise the largest group (42), while Year 4 has the fewest (8).
+
+2. Health Status
+- General Health: Of the students surveyed, 64 reported poor health, with 10 affected by all three ailments (schizophrenia, psychosis, and insomnia). Only 13 of the 64 students with poor health sought treatment.
+- Prevalence of Ailments: The conditions of interest affected 32 students (psychosis), 33 (insomnia), and 28 (schizophrenia). Female students reported higher incidences across all conditions compared to male students.
+
+3. Academic Performance
+- Despite health challenges, academic performance remains high. Of the 100 students, 91 achieved a CGPA of 3.0 or above, with many students affected by these conditions performing in this range. Notably, 39 female students achieved a CGPA of 3.50–4.00, compared to 9 male students.
+- The findings suggest that poor health did not significantly hinder academic success, as students with ailments demonstrated resilience in maintaining strong performance.
+
+4. Gender-Based Trends
+Females were more likely to report conditions such as insomnia (24 females vs. 10 males), psychosis (29 females vs. 6 males), and schizophrenia (25 females vs. 8 males). This pattern may indicate a higher prevalence among females or a greater willingness to disclose health concerns.
+
+5. Course-Level Distribution
+- Mental health conditions were notably concentrated in four courses:
+- Biotechnology: Insomnia was most prevalent, with 8 students affected.
+- Engineering: Psychosis and schizophrenia were more common, with 7 and 5 students affected, respectively.
+- Beyond these courses, the distribution of ailments varied across other disciplines.
+
+6. Insights
+The findings highlight the resilience of students in balancing mental health challenges with academic demands. However, the low number of students seeking treatment despite poor health signals a need for better access to or awareness of mental health resources.
+Gender disparities and course-specific trends warrant targeted interventions to address mental health concerns effectively.
 
 
